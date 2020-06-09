@@ -1,1 +1,7 @@
 
+Freestle Project:
+BugBash_Freestyle_9_6
+with SCM
+connected to git: https://github.com/archiekins14/BugBash
+Connected to UCD : https://***:8443/
+Component: QACommonComp
